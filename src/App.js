@@ -12,7 +12,6 @@ class App extends Component {
 
         <Header />
         <ExpandedRow />
-
         <Footer />
       </div>
     );
